@@ -3,5 +3,3 @@ _Desarrollo de una aplicación que permita a los usuarios ingresar nombres de am
 ## Comenzando
 _Comentar_
 ### Pre-requisitos 📋
-
-### Despliegue
