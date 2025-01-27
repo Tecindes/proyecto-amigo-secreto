@@ -29,7 +29,7 @@ Aplicación que permita al usuario ingresar nombres de amigos en una lista para 
 
 # Funcionalidades
 
-:heavy_check_mark: `Funcionalidad 1:` Realizar el ingreso de los nombres de los amigos, verificando que no se repita.
+:heavy_check_mark: `Funcionalidad 1:` Realizar el ingreso de los nombres de los amigos, verificando que no se repitan.
 
 :heavy_check_mark: `Funcionalidad 2:` Sortear entre los nombres ingresados, para seleccionar aleatoriamente al amigo secreto.
 
