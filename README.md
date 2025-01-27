@@ -6,7 +6,7 @@
 
 ### Tópicos 
 
-- [Descripción del proyecto](#Descripción-del-projecto)
+- [Descripción del proyecto](#Descripción-del-proyecto)
 
 - [Funcionalidades](#Funcionalidades)
 
@@ -20,7 +20,7 @@
 
 - [Desarrolladores](#desenvolvedores)
 
-## Descripción del projecto
+## Descripción del proyecto
 <p align="justify">
 Aplicación que permita al usuario ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
