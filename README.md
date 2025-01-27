@@ -35,6 +35,14 @@ Aplicación que permita al usuario ingresar nombres de amigos en una lista para 
 
 :heavy_check_mark: `Funcionalidad 3:` Mostrar el nombre del amigo secreto.
 
+# Aplicación
+
+<div align="center">
+
+![Android Emulator](https://user-images.githubusercontent.com/37356058/135944390-ec96d4ec-ee43-4db9-882f-89be66aad23a.gif)
+
+  </div>
+
 ## Proyecto Amigo Secreto
 _Desarrollo de una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto"._
 ## Comenzando
