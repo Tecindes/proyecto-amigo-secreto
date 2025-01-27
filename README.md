@@ -39,7 +39,7 @@ Aplicación que permita al usuario ingresar nombres de amigos en una lista para 
 
 <div align="center">
 
-![Android Emulator](https://user-images.githubusercontent.com/37356058/135944390-ec96d4ec-ee43-4db9-882f-89be66aad23a.gif)
+![Android Emulator](https://raw.githubusercontent.com/Tecindes/proyecto-amigo-secreto/refs/heads/main/assets/Aplicacion.png)
 
   </div>
 
