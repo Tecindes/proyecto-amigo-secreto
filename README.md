@@ -24,7 +24,7 @@
 <p align="justify">
 Aplicación que permita al usuario ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
-![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
+![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.]([https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png](https://img.freepik.com/fotos-premium/adhesivos-papel-diferentes-nombres-fondo-azul-claro-vista-superior-elegir-nombre-baby39_495423-93200.jpg?ga=GA1.1.1622220315.1738011490&semt=ais_hybrid))
 </p>
 ## Proyecto Amigo Secreto
 _Desarrollo de una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto"._
