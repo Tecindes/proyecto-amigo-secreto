@@ -29,9 +29,9 @@ Aplicación que permita al usuario ingresar nombres de amigos en una lista para 
 
 # Funcionalidades
 
-:heavy_check_mark: `Funcionalidad 1:` Realizar cadastro dos usuários, podendo ser paciente ou profissional de saúde.
+:heavy_check_mark: `Funcionalidad 1:` Realizar el ingreso de los nombres de los amigos, verificando que no se repita.
 
-:heavy_check_mark: `Funcionalidad 2:` Armazenar dados do usuário, como glicemia, atividade física, alimentação, medicação, administração de insulina e peso no banco de dados na Cloud Firestore.
+:heavy_check_mark: `Funcionalidad 2:` Sortear entre los nombres ingresados, para seleccionar aleatoriamente al amigo secreto.
 
 :heavy_check_mark: `Funcionalidad 3:` Plotar gráfico com histórico dos níveis glicêmicos do paciente.
 
