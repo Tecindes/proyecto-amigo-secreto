@@ -8,7 +8,7 @@
 
 - [Descripción del proyecto](#Descripción-del-projecto)
 
-- [Funcionalidades](#funcionalidades)
+- [Funcionalidades](#Funcionalidades)
 
 - [Aplicación](#aplicação)
 
@@ -26,6 +26,17 @@ Aplicación que permita al usuario ingresar nombres de amigos en una lista para 
 
 ![](https://img.freepik.com/fotos-premium/colocaron-pegatinas-papel-diferentes-nombres-fondo-plano-madera-elegir-nombre-bebe_495423-87780.jpg?w=740)
 </p>
+
+# Funcionalidades
+
+:heavy_check_mark: `Funcionalidade 1:` Realizar cadastro dos usuários, podendo ser paciente ou profissional de saúde.
+
+:heavy_check_mark: `Funcionalidade 2:` Armazenar dados do usuário, como glicemia, atividade física, alimentação, medicação, administração de insulina e peso no banco de dados na Cloud Firestore.
+
+:heavy_check_mark: `Funcionalidade 3:` Plotar gráfico com histórico dos níveis glicêmicos do paciente.
+
+:heavy_check_mark: `Funcionalidade 4:` Chat com entre o paciente e profissional da saúde.
+
 ## Proyecto Amigo Secreto
 _Desarrollo de una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto"._
 ## Comenzando
