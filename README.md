@@ -33,9 +33,7 @@ Aplicación que permita al usuario ingresar nombres de amigos en una lista para 
 
 :heavy_check_mark: `Funcionalidad 2:` Sortear entre los nombres ingresados, para seleccionar aleatoriamente al amigo secreto.
 
-:heavy_check_mark: `Funcionalidad 3:` Plotar gráfico com histórico dos níveis glicêmicos do paciente.
-
-:heavy_check_mark: `Funcionalidad 4:` Chat com entre o paciente e profissional da saúde.
+:heavy_check_mark: `Funcionalidad 3:` Mostrar el nombre del amigo secreto.
 
 ## Proyecto Amigo Secreto
 _Desarrollo de una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto"._
