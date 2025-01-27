@@ -6,7 +6,7 @@
 
 ### Tópicos 
 
-- [Descripción del proyecto](#descripcion-del-projecto)
+- [Descripción del proyecto](#Descripción-del-projecto)
 
 - [Funcionalidades](#funcionalidades)
 
