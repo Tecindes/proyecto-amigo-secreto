@@ -14,7 +14,7 @@
 
 - [Herramientas utilizadas](#Herramientas-utilizadas)
 
-- [Acesso al proyecto](#acesso-ao-projeto)
+- [Acceso al proyecto](#Acceso-al-proyecto)
 
 - [Abrir y ejecutar el proyecto](#abrir-e-rodar-o-projeto)
 
