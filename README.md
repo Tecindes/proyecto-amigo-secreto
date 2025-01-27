@@ -1,4 +1,4 @@
-![|500](https://cdn-icons-png.freepik.com/256/12608/12608968.png?ga=GA1.1.1622220315.1738011490&semt=ais_hybrid)
+![|width="10%"](https://cdn-icons-png.freepik.com/256/12608/12608968.png?ga=GA1.1.1622220315.1738011490&semt=ais_hybrid|width="10%")
 <hr>
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=TERMINADO&color=RED&style=for-the-badge" #vitrinedev/>
