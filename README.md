@@ -61,6 +61,14 @@ Después de descargar el proyecto, puede abrirlo con "Visual Studio Code". Para 
 
 Visual Studio Code debería ejecutar algunas tareas *Gradle* para configurar el proyecto, aguarde hasta que finalice. Cuando termine de ejecutar las tareas podrá ejecutar el aplicativo.
 
+- Para ejecutar el proyecto seleccione en el menu la opción EJECUTAR y posteriormente INICIAR DEPURACIÓN o directamente presione la tecla F5;
+- Si se le solicita escoger el navegador web de su preferencia.
+
+# Desarrolladores
+
+| [<img src="https://avatars.githubusercontent.com/u/87500675?s=400&u=3fff02d252f8ba421132223d77181d1f0549cc25&v=4" width=115><br><sub>Miguel Martínez Amézquita</sub>](https://github.com/Tecindes) |  [<img src="" width=115><br><sub>Alura Latam</sub>](https://github.com/crovim)  |
+| :---: | :---: 
+
 ## Proyecto Amigo Secreto
 _Desarrollo de una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto"._
 ## Comenzando
