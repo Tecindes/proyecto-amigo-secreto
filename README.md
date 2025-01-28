@@ -16,9 +16,9 @@
 
 - [Acceso al proyecto](#Acceso-al-proyecto)
 
-- [Abrir y ejecutar el proyecto](#abrir-e-rodar-o-projeto)
+- [Abrir y ejecutar el proyecto](#Abrir-y-ejecutar-el-proyecto)
 
-- [Desarrolladores](#desenvolvedores)
+- [Desarrolladores](#Desarrolladores)
 
 ## Descripción del proyecto
 <p align="justify">
@@ -50,6 +50,16 @@ Aplicación que permita al usuario ingresar nombres de amigos en una lista para 
 
 # Acceso al proyecto
 Usted puede [acessar al código fuente del proyecto](https://github.com/Tecindes/proyecto-amigo-secreto.git) o [Descárgalo](https://github.com/Tecindes/proyecto-amigo-secreto/archive/refs/heads/main.zip).
+
+# Abrir y ejecutar el proyecto
+
+Después de descargar el proyecto, puede abrirlo con "Visual Studio Code". Para ello, en la pantalla del launcher haga click en:
+
+- Abrir un proyecto existente (o alguna opción similar);
+- Buscar la ubicación donde se encuentra el proyecto y seleccionarlo (Si el proyecto se descarga vía zip, es necesario extraerlo antes de buscarlo);
+- Finalmente haga click en aceptar.
+
+Visual Studio Code debería ejecutar algunas tareas *Gradle* para configurar el proyecto, aguarde hasta que finalice. Cuando termine de ejecutar las tareas podrá ejecutar el aplicativo.
 
 ## Proyecto Amigo Secreto
 _Desarrollo de una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto"._
