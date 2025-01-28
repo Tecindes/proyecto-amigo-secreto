@@ -49,7 +49,7 @@ Aplicación que permita al usuario ingresar nombres de amigos en una lista para 
 <a href="https://www.trello.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCbY1-Um96CJj5CiENgILgx12Sc6ZV-NPLdw&s" alt="trello" width="40" height="40"/> </a> 
 
 # Acceso al proyecto
-Usted puede [acessar al código fuente del proyecto](https://github.com/Tecindes/proyecto-amigo-secreto.git) o [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+Usted puede [acessar al código fuente del proyecto](https://github.com/Tecindes/proyecto-amigo-secreto.git) o [Descárgalo](https://github.com/Tecindes/proyecto-amigo-secreto/archive/refs/heads/main.zip).
 
 ## Proyecto Amigo Secreto
 _Desarrollo de una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto"._
