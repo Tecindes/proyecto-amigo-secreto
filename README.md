@@ -1,4 +1,5 @@
-![](https://cdn-icons-png.freepik.com/256/12608/12608968.png?ga=GA1.1.1622220315.1738011490&semt=ais_hybrid)
+## Proyecto Amigo Secreto
+![Proyecto Amigo Secreto](https://cdn-icons-png.freepik.com/256/12608/12608968.png?ga=GA1.1.1622220315.1738011490&semt=ais_hybrid)
 <hr>
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=TERMINADO&color=RED&style=for-the-badge" #vitrinedev/>
@@ -66,11 +67,5 @@ Visual Studio Code debería ejecutar algunas tareas *Gradle* para configurar el 
 
 # Desarrolladores
 
-| [<img src="https://avatars.githubusercontent.com/u/87500675?s=400&u=3fff02d252f8ba421132223d77181d1f0549cc25&v=4" width=115><br><sub>Miguel Martínez Amézquita</sub>](https://github.com/Tecindes) |  [<img src="" width=115><br><sub>Alura Latam</sub>](https://github.com/crovim)  |
+| [<img src="https://avatars.githubusercontent.com/u/87500675?s=400&u=3fff02d252f8ba421132223d77181d1f0549cc25&v=4" width=115><br><sub>Miguel Martínez Amézquita</sub>](https://github.com/Tecindes) |  [<img src="https://github.com/Tecindes/proyecto-amigo-secreto/blob/main/assets/Alura.jpg" width=115><br><sub>Alura Latam</sub>](https://github.com/crovim)  |
 | :---: | :---: 
-
-## Proyecto Amigo Secreto
-_Desarrollo de una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto"._
-## Comenzando
-_Comentar_
-### Pre-requisitos 📋
