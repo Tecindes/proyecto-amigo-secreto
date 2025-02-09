@@ -52,4 +52,30 @@ function sortearAmigo(){
     _htmlParrafo.appendChild(document.createTextNode(_nombreElegido));
     document.querySelector("#resultado").appendChild(_htmlLista).appendChild(_htmlParrafo);
     //return ( Math.floor(Math.random() * (_indeceMaximo - _indiceMinimo + 1) + _indiceMinimo))+1;
-     }
+}
+
+function prueba7DiasOfCode(){
+    let _numeroUno=1;
+    let _stringUno='1';
+    let _numeroTreinta=30;
+    let _stringTreinta='30';
+    let _numeroDiez=10;
+    let _stringDiez='10';
+
+    if (_numeroUno==_stringUno){
+        console.log('Las variables _numeroUno y _stringUno tienen el mismo valor, pero tipos diferentes');
+    } else {
+        console.log('Las variables _numeroUno y _stringUno no tienen el mismo valor');
+    }
+    if(_numeroTreinta===_stringTreinta){
+        console.log('Las variables _numeroTreinta y _stringTreinta tienen el mismo valor y el mismo tipo');
+    } else {
+        console.log('Las variables _numeroTreinta y _stringTreinta no tienen el mismo tipo');
+    }
+    if(_numeroDiez!==_stringDiez){
+        console.log('Las variables _numeroDiez y _stringDiez tienen el mismo valor, pero tipos diferentes');
+    } else {
+        console.log('Las variables _numeroDiez y _stringDiez no tienen el mismo valor');
+    }
+}
+ 
