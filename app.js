@@ -93,15 +93,34 @@ function _2De7DiasOfCode(){
 }
 
 function _3De7DiasOfCode(_areaSeleccionada){
-    let _continuarTecnologias =1;
-    if (_areaSeleccionada===1 || _areaSeleccionada===2){
-        const _eleccion=prompt(`${_areaSeleccionada==1 ? 'Selecciono Front-End, ':'Selecciono Back-End, '} ${_areaSeleccionada==1 ? 'Selecciona 1 para React, 2 para Vue' : 'Selecciona 1 para C#, 2 para Java'}`,1);
-        const _especialidad=prompt("Para especializarce en el área elegida dígite 1, para convertirse en Full Stack digite 2",1);
-        while(_continuarTecnologias===1){
-            const _respuesta=prompt("¿Hay alguna otra tecnología que te gustaría aprender?, responder Ok","Ok");
-            _continuarTecnologias=`${_respuesta=='Ok' ? 1:2}`;
-            alert(_continuarTecnologias);
+    let _continuarTecnologias ="true";
+    let _nombreTecnologia=""
+    //if (_areaSeleccionada===1 || _areaSeleccionada===2){
+        let _eleccion=0;
+        let _mensajeError="";
+        while (_eleccion !=1 && _eleccion!=2 ){
+            _eleccion=prompt(`${_mensajeError} ${_areaSeleccionada==1 ? 'Selecciono Front-End, ':'Selecciono Back-End, '} ${_areaSeleccionada==1 ? 'Selecciona 1 para React, 2 para Vue' : 'Selecciona 1 para C#, 2 para Java'}`,1);
+            _mensajeError= "¡Error! Ingrese una opción correcta, ";
         }
-    }
+        let _especialidad=0;
+        _mensajeError = "";
+        while (_especialidad !=1 && _especialidad!=2){
+            _especialidad=prompt(`${_mensajeError} Para especializarce en el área: ${_areaSeleccionada==1 ? 'Front-End':'Back-End'} dígite 1, para convertirse en Full Stack digite 2`,1);
+            _mensajeError= "¡Error! Ingrese una opción correcta, ";
+        }
+        let _htmlLista=document.createElement("li");
+        let _htmlParrafo=document.createElement("p");
+        _htmlParrafo.appendChild(document.createTextNode("aa"));
+        document.querySelector("#areaElegida").appendChild(_htmlLista).appendChild(_htmlParrafo);
+        while(_continuarTecnologias=="true"){
+            _nombreTecnologia=prompt("Ingrese tecnología que desea aprender");
+            let _htmlLista=document.createElement("li");
+            let _htmlParrafo=document.createElement("p");
+            _htmlParrafo.appendChild(document.createTextNode(_nombreTecnologia));
+            document.querySelector("#listaTecnologias").appendChild(_htmlLista).appendChild(_htmlParrafo);
+            const _respuesta=prompt("¿Hay alguna otra tecnología que te gustaría aprender?, responder Ok","Ok");
+            _continuarTecnologias=`${_respuesta=='Ok' ? "true":"false"}`;
+        }
+    //}
 }
  
