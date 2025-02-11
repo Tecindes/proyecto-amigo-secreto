@@ -125,7 +125,7 @@ function _3De7DiasOfCode(_areaSeleccionada){
             } else {
                let _htmlLista=document.createElement("li");
                let _htmlParrafo=document.createElement("p");
-               _htmlParrafo.appendChild(document.createTextNode(`- ${_nombreTecnologia}`));
+               _htmlParrafo.appendChild(document.createTextNode(`- Excelente, selecciono: ${_nombreTecnologia}`));
                document.querySelector("#listaTecnologias").appendChild(_htmlLista).appendChild(_htmlParrafo);
                const _respuesta=prompt("¿Hay alguna otra tecnología que te gustaría aprender?, responder Ok","Ok");
                _continuarTecnologias=`${_respuesta=='Ok' ? "true":"false"}`;
@@ -139,5 +139,35 @@ function _3De7DiasOfCode(_areaSeleccionada){
         document.querySelector("#areaElegida").appendChild(_htmlLista).appendChild(_htmlParrafo);
         
     //}
+}
+function _4De7DiasOfCode(){
+    let _numeroSecreto = Math.floor(Math.random()*10)+1;
+    let _numeroDelUsuario = 0;
+    let _intentosRealizados = 0;
+    let _maximosIntentos = 3;
+    //alert(_numeroSecreto);
+    while (_numeroDelUsuario != _numeroSecreto) {
+        _numeroDelUsuario = parseInt(prompt(`Ingresa un número entre 1 y 10:`));
+        _intentosRealizados++;        
+        //alert(typeof(_numeroDelUsuario));
+        if (_numeroDelUsuario>=1 && _numeroDelUsuario<=10){
+            if (_numeroDelUsuario === _numeroSecreto) {
+                alert(`Acertaste, el número es: ${_numeroDelUsuario}. Lo hiciste en ${_intentosRealizados} ${_intentosRealizados == 1 ? 'vez' : 'veces' }`);
+                break;
+            } else {
+                if (_numeroDelUsuario > _numeroSecreto) {
+                    alert('El número secreto es menor');
+                } else {
+                    alert('El número secreto es mayor');
+                }
+             }
+        } else {
+            alert("Debe ingresar un dato correcto");
+        }
+        if (_intentosRealizados >= _maximosIntentos) {
+            alert(`Llegaste al número máximo de ${_maximosIntentos} intentos`);
+            break;
+        }
+    }
 }
  
